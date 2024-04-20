@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    color: black;
+    padding: 50px;
+background-image: url("file:///C:/Users/Microsoft%20Computers/Desktop/figma/img/apartment-bed-bedroom-chair-271618%201%20(1).png");
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.nv{
+    width: 200px;
+    height: 130px;
+    background-color: #E0B973;
+    text-align: center;
+    border-bottom-left-radius: 35% ;
+    border-bottom-right-radius: 35% ;
+}
+.nav ul{
+    width: 400px;
+    height: 50px;
+    display: flex;
+   list-style: none;
+justify-content: space-between;
+   margin-left: 600px;
+}
+.center{
+   
+    width: 400px;
+    margin-top: 200px ;
+    
+    font-family: Adobe Garamond Pro;
+font-size: 24px;
+font-weight: 700;
+letter-spacing: 0.07em;
+text-align: left;
+
+}
+.bt{
+    width: 150px;
+    height: 45px;
+    background-color: #E0B973;
+    border-radius: 10px;
+    border: none;
+    margin-left: 650px;
+}
+.cen{
+    width: 500px;
+    height: 200px;
+    display: flex;
+align-items: center;
+justify-content:center;
+flex-direction: column;
+gap: 30px;
+letter-spacing: 0.07em;
+margin-left: 500px;
+margin-top: 200px;
+
+}
+.cen h1{
+    margin-top: -60px;
+    position: absolute;
+}
+.section2{
+    width: 90%;
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    gap: 40px;
+    padding: 20px;
+}
+.section2 img{
+    width: 90%;
+    height: 900px;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+.section{
+    width: 90%;
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    gap: 40px;
+    padding: 20px;
+    margin-top: 200px;
+}
+.section img{
+    width: 90%;
+    height: 900px;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+.sectio{
+    width: 90%;
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    gap: 40px;
+    padding: 20px;
+    margin-top: 200px;
+}
+.sectio img{
+    width: 90%;
+    height: 900px;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+.secti{
+    width: 90%;
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    gap: 40px;
+    padding: 20px;
+    margin-top: 200px;
+}
+.secti img{
+    width: 90%;
+    height: 900px;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+.sect{
+    width: 90%;
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    gap: 40px;
+    padding: 20px;
+    margin-top: 200px;
+}
+.sect img{
+    width: 90%;
+    height: 900px;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+.sectin{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-left: 500px;
+    position: absolute;
+    margin-top: -100px;
+}
+
+.jk{
+
+   
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: #14274A ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    color: white;
+}
+.nm{
+    width: 300px;
+    height: 200px;
+    color: white;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+}
+ul{
+    list-style: none;
+
+}
+
+.ul{
+    flex-direction: column;
+}
+.iki input{
+    height:40px;
+border: 2px solid #E0B973;
+background-color: transparent;
+border-radius: 4px;
+margin-top: 30px;
+text-indent: 12px;
+color: white;
+}
+.iki button{
+    width: 50px;
+    height: 43px;
+    background-color: #E0B973;
+    border: none;
+    border-radius: 5px;
+
+}
+.iki p{
+    margin-top: -20px;
+    position: absolute;
+}
+.kll{
+    width: 75%;
+    height: 200px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+margin-left: 200px;
+}
